@@ -1,5 +1,5 @@
-#Open Source
+###Open Source First Task###
 
-• Kullanıcı verilerini çekerken  kullanıcı tablosunun kolonlarını tc_id, isim ve universite olarak düzenledim.
+• Kullanıcı tablosunun kolonlarını tc_id, isim ve universite olarak düzenledim.
 
-• Tablodan veri çekme işlemi, get metodu içerisinde 'tc_id' verisi üzerinde yapılmaktadır.
+• Tablodan veri çekme işlemi, get metodu içerisinde 'tc_id' verisi üzerinden yapılır.
