@@ -1,4 +1,4 @@
-OPEN SOURCE PROJECT
+OPEN SOURCE PROJECTS
 
 firstProject -> Example repository
 secondProject -> Preparing queries for open APIs.
